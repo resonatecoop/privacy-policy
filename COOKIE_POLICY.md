@@ -14,12 +14,6 @@ We use cookies for a number of different purposes. All cookies are necessary for
 
 Below we have some details about the different types of cookies set by resonate.is. Certain cookies are only set for logged in visitors, whereas others are set for any visitor, and these are marked below accordingly.
 
-## Analytics
-
-We use Matomo (formerly Piwik) for internal analytics, such as tracking page views and traffic throughout the site. Matomo is similar in functionality to Google Analytics. But while Google stores and analyzes data, giving them the ability to track users across the entire internet, with Matomo, this data is strictly gathered and stored on our own servers.
-
-This analytics data is strictly used to analyze trends and interest on the site and is never processed on an individual level, meaning we don't use our cookies to track a member's specific journey through our sites. Additionally, Resonate will never share this data with third parties unless specifically approved by a majority of the membership.
-
 ## Technical details
 
 Beyond analytics, we only use an important cookie called a 'token' which is stored securely and is only sent over http, so it is not accessible by javascript. Other cookies used are the PHPSESSID which is set by the php api by default for basic session handling. Another one is set to detect our cookie policy approval settings 'cookieconsent_status'.
